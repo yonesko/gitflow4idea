@@ -31,6 +31,12 @@
         <action id="Gitflow.StartHotfix" class="gitflow.actions.StartHotfixAction" text="Gitflow: Start Hotfix..."></action>
         <action id="Gitflow.FinishHotfix" class="gitflow.actions.FinishHotfixAction" text="Gitflow: Finish Hotfix"></action>
         <action id="Gitflow.PublishHotfix" class="gitflow.actions.PublishHotfixAction" text="Gitflow: Publish Hotfix"></action>
+
+        <action id="CommitMessageTemplate.Button" class="CommitMessageTemplateAction"
+                text="Commit Message Template"
+                description="Load commit message template" icon="enterTemplate.png">
+            <add-to-group group-id="Vcs.MessageActionGroup" anchor="first"/>
+        </action>
     </actions>
 
     <project-components>
