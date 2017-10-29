@@ -3,6 +3,8 @@
 
 An intelliJ plugin providing a UI layer for git-flow, which in itself is a collection of Git extensions to provide high-level repository operations for Vincent [Driessen's branching model](http://nvie.com/git-model).
 
+Fork change: add feature task name to commit message.
+
 ![screenshot](http://opherv.github.io/gitflow4idea/images/gitflow.jpg)
 
 ## Getting started
