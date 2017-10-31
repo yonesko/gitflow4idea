@@ -4,7 +4,7 @@
     <description>Git Flow Integration</description>
     <version>0.6.3</version>
     <category>VCS Integration</category>
-    <vendor url="http://www.opherv.com">Opher Vishnia</vendor>
+    <vendor url="https://github.com/yonesko/gitflow4idea">Gleb</vendor>
 
     <depends>com.intellij.modules.vcs</depends>
     <depends>com.intellij.tasks</depends>
