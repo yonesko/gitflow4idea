@@ -1,7 +1,10 @@
 <idea-plugin version="2">
     <name>Git Flow Integration</name>
-    <id>Gitflow</id>
-    <description>Git Flow Integration</description>
+    <id>Gitflow feature mame plugin</id>
+    <description>
+        Fork from https://github.com/OpherV/gitflow4idea.
+        Fork change: Add feature task name to commit message via button in 'Commit Changes' window (cmd + K).
+    </description>
     <version>0.6.5.1</version>
     <category>VCS Integration</category>
     <vendor url="https://github.com/yonesko/gitflow4idea">Gleb</vendor>
