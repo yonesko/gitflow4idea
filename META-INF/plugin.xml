@@ -5,7 +5,7 @@
         Add feature task name to commit message via button in 'Commit Changes' window (cmd + K).
         Fork from https://github.com/OpherV/gitflow4idea.
     </description>
-    <version>0.1</version>
+    <version>0.2</version>
     <category>VCS Integration</category>
     <vendor url="https://github.com/yonesko/gitflow4idea">Gleb</vendor>
 
